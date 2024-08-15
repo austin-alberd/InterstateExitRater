@@ -1,2 +1,2 @@
 # InterstateExitRater
-A simple web app where users rate Interstate exits based on several criteria.
+A simple web app that allows users to rate interstate exits based on criteria such as ramp length and ammenities.
